@@ -1,0 +1,50 @@
+##############################################################################
+#                                                                            #
+#    The following config file will allow you to customize settings within   #
+#    BACKDOORPPT tool, The lines that Do not have comment code ("#") are     #
+#    the fields you want to toy with. There are additional options, read     #
+#    the comments For additional config settings.                            #
+#                                                                            #
+#    CHANGING THIS SETTINGS WILL AFFECT 'backdoorppt.sh' WAY OF WORKING      #
+#                                                                            #
+##############################################################################
+
+
+
+### Spoof extension method to use?
+#
+# RUBY - RTLO Right to Left Override
+# This trick uses Right to Left unicode to reverse the last six characters so that
+# the extension is spoofed, for example a notes.exe file can be renamed to notesexe.txt
+# Although the file extension clearly shows as .txt in Explorer the Windows operating
+# system still recognizes the file as an application. example of 1º method: notesexe.txt
+#
+# BASH - Hide Extensions for Known File Types
+# There is a setting in Folder Options where you can hide the file extension so that
+# only the filename is visible in Explorer while the extension is hidden. The problem
+# with this setting is the default option is set to hide and a less careful user can be
+# tricked when there is a double extension. An example of 2º method: notes.txt.exe
+#
+# backdoorppt by default uses 'Right to Left Override' (ruby)
+# but it can be config to use 'Hide Extensions for Known File Types' (bash)
+# Accepted values are: YES (bash) or NO (ruby)
+----------------------
+BASH_TRANSFORMATION=NO
+----------------------
+
+
+
+
+### BYPASS RESOURCEHACKER SOFTWARE WORK
+# This option bypasses the use of resourcehacker.exe to chance the icons
+# of the payload to be transformed (you will have to change the icons manualy)
+# because backdooppt will only chance the payload extensions if this option is active.
+# Accepted values are: YES or NO
+------------------------
+RESOURCEHACKER_BYPASS=NO
+------------------------
+
+
+
+_EOF
+
