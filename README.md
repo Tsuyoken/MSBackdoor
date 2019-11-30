@@ -1,4 +1,4 @@
-# PPTBackdoor - 'Office spoof extensions tool'
+# PPTBackdoor
 [![Version](https://img.shields.io/badge/backdoorppt-1.0-brightgreen.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-kali,Ubuntu,Mint-blue.svg)]()
