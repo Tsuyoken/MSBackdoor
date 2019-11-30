@@ -59,6 +59,6 @@
 ### Follow My Social Media
 <br>
     <a href="https://instagram.com/frdy_an">Instagram</a>
-    <a href="https://facebook.com/KENNEDYBYTE">Facebook</a>
-    <a href="mailto:ferdi.kennedy@protonmail.com">Email</a>
+    <br><a href="https://facebook.com/KENNEDYBYTE">Facebook</a>
+    <br><a href="mailto:ferdi.kennedy@protonmail.com">Email</a>
 
