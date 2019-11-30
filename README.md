@@ -48,17 +48,12 @@
 
     Target user thinks they are opening a word document file,
     but in fact they are executing one binary payload insted.
-
-<br />
-
-
-
-
-<br />
+<br>
 
 ### Follow My Social Media
-<br>
-    <a href="https://instagram.com/frdy_an">Instagram</a>
-    <br><a href="https://facebook.com/KENNEDYBYTE">Facebook</a>
-    <br><a href="mailto:ferdi.kennedy@protonmail.com">Email</a>
+<hr>
+<a href="https://instagram.com/frdy_an">Instagram</a>
+<a href="https://facebook.com/KENNEDYBYTE">Facebook</a>
+<a href="mailto:ferdi.kennedy@protonmail.com">Email</a>
+<hr>
 
