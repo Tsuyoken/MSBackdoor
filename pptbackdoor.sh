@@ -205,7 +205,7 @@ fi
 # Input payload output name ..
 # And check if inputed program its one .exe binarie ..
 #
-MiP=$(zenity --entry --title "☠ PAYLOAD FINAL NAME ☠" --text "example: curriculum" --width 300) > /dev/null 2>&1
+MiP=$(zenity --entry --title "☠ PAYLOAD NAME ☠" --text "example: administration" --width 300) > /dev/null 2>&1
 che=`echo $UpL | cut -d '.' -f2`
 if ! [ "$che" = "exe" ]; then
   echo ""
