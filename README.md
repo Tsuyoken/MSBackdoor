@@ -51,7 +51,7 @@
 <br>
 
 ### Follow My Social Media
-Instagram: <a href="https://instagram.com/frdy_an">@frdy_an</a><br>
+Instagram: <a href="https://instagram.com/ferdikennedy">@ferdikennedy</a><br>
 Facebook: <a href="https://facebook.com/KENNEDYBYTE">Ferdi S Kennedy</a><br>
-E-mail: <a href="mailto:ferdi.kennedy@protonmail.com">ferdi.kennedy@protonmail.com</a><br>
+E-mail: <a href="mailto:ferdikennedy@protonmail.com">ferdikennedy@protonmail.com</a><br>
 
